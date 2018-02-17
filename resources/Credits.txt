@@ -1,0 +1,38 @@
+  ~~Thanks for Playing~~
+
+  --Gods of Speed--
+  A IbiStudio game
+
+  Lead Developer:
+    Eloi Brehin
+
+  Physics Manager:
+    Simon Raguin
+
+  Compatibility Windows\Linux:
+    Ziri Belabbas
+
+  Game Designers:
+    Matthieu Duvaux
+    Yoann Wargnier
+
+
+  Musics :
+       Stopwatch - Hans Zimmer
+       Pits of the Oysters - Hans Zimmer
+       I Could Show You If You'd Like - Hans Zimmer
+       Into the Red - Hans Zimmer
+       Scuderia - Hans Zimmer
+       Jetlag Funk - Netsky
+
+
+  A IBISTUDIO GAME
+
+  Special thanks to the Region Poitou-Charentes.
+
+  No hamsters were harmed during
+  the development of this game.
+
+  Developed with The Irrlicht Engine
+
+  Copyright © 2017 IbisStudio

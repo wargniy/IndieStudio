@@ -1,0 +1,79 @@
+# Blender MTL File: 'trackyoshi.blend'
+# Material Count: 7
+
+newmtl yc_RoadWhite_t01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/anony/Downloads/gcn-yoshi-circuit-mario-kart-8/textures/gcyc_road_t01_alb.png
+
+newmtl yc_RoadWhite_t01_a1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/anony/Downloads/gcn-yoshi-circuit-mario-kart-8/textures/gcyc_road_t01_alb.png
+
+newmtl yc_Road_t01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/anony/Downloads/gcn-yoshi-circuit-mario-kart-8/textures/gcyc_road_t01_alb.png
+
+newmtl yc_Road_t01_a1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/anony/Downloads/gcn-yoshi-circuit-mario-kart-8/textures/gcyc_road_t01_alb.png
+
+newmtl yc_Road_t01_a1_SpmG
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/anony/Downloads/gcn-yoshi-circuit-mario-kart-8/textures/gcyc_road_t01_alb.png
+
+newmtl yc_StartGate
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/anony/Downloads/gcn-yoshi-circuit-mario-kart-8/textures/gcyc_startgate_alb.png
+
+newmtl yc_StartGridCheck
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/anony/Downloads/gcn-yoshi-circuit-mario-kart-8/textures/gcyc_startgridcheck_alb.png
